@@ -1,8 +1,4 @@
 Rails.application.configure do
-
-  # fix missing 'secret_key_base' for 'production' environment error on Heroku deployment
-  config.secret_key_base = ENV["SECRET_KEY_BASE"]
-
   # Settings specified here will take precedence over those in config/application.rb.
 
   # Code is not reloaded between requests.
