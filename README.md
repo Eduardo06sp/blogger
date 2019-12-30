@@ -13,3 +13,7 @@ In this project, I created a simple blog system and learned some of the basics o
 * RESTful design
 
 * Using gems
+
+* Debug Heroku deployment issues
+
+* Deploy to Heroku
